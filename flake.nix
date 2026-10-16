@@ -20,8 +20,8 @@
             raylib
             cmake
             gdb
-	    ninja 
-	 ];
+	    	ninja 
+	      ];
         };
       });
 }
